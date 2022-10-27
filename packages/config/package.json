@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-custom",
+  "name": "config",
   "version": "0.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -10,6 +10,9 @@
     "eslint-plugin-react": "7.31.8",
     "eslint-config-turbo": "latest"
   },
+  "files": [
+    "eslist-preset.js"
+  ],
   "devDependencies": {
     "typescript": "^4.7.4"
   },
